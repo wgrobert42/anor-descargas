@@ -1,0 +1,11 @@
+{
+  "name": "Anor · Panel",
+  "short_name": "Anor Panel",
+  "description": "Clientes, planes y precios de Anor",
+  "start_url": "./admin/",
+  "scope": "./admin/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#58cc02",
+  "icons": [{ "src": "icono.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
